@@ -1,0 +1,14 @@
+
+  body
+  {
+    background-color: #bbcfff;
+    font-style: arial;
+  }
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    background-color: #bbcfff;
+    border-color: white;
+    border-width: 5px;
+    width: 6%;
+  }
