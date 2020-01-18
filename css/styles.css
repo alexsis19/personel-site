@@ -1,14 +1,20 @@
 
   body
   {
-    background-color: #bbcfff;
-    font-style: arial;
+    background-color: #Eaf6f6;
+    font: arial;
   }
+  h1{
+    color: #66bfbf;
+  }
+  h3{
+      color: #66bfbe;
+    }
   hr{
     border-style: none;
     border-top-style: dotted;
-    background-color: #bbcfff;
-    border-color: white;
+    background-color: #Eaf6f6;
+    border-color: grey;
     border-width: 5px;
     width: 6%;
   }
